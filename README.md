@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sajaddy, an <a href="https:linkedin.com/in/sajaddy-mousa-84b597252">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sajaddy, an <a href="https://linkedin.com/in/sajaddy-mousa-84b597252">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
